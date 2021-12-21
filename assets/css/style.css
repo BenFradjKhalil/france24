@@ -1,0 +1,64 @@
+
+.logo{
+    height: 60px;
+    width: 60px;
+    background-color: #00ADE6;
+    font-size: 12px;
+    padding: 5px 5px;
+    font-weight: bold;
+    position: relative;
+}
+
+.logo .num{
+    top: 12px;
+    font-size: 22px;
+    position: absolute;
+}
+
+.plays{
+    width: 60px;
+    height: 60px;
+}
+
+.text{
+    padding-top:10px;
+    padding-left:3px;
+    
+}
+
+.point{
+    padding-top: 13px;
+    float: right;  
+}
+.site-nav-bar{
+    background-color:#00A7E3 ;
+}
+.nav .nav-item a{
+    color: white ;
+    font-size: 14px; 
+}
+
+.nav-highlight{
+    background-color:#4DC2EB ;
+    border-radius:5px ;
+    margin: 0.5rem 0.5rem;
+    }
+
+.site-nav{
+    background-color:#000145 ;
+}
+
+.info_text{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    padding: 5px 15px;
+    
+}
+.info_text_titre{
+    background-color: #EEEEEE;
+}
+.time{
+    font-size: 18px;
+}
